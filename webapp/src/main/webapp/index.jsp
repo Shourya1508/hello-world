@@ -14,6 +14,12 @@
     <label for="email"><b>Email</b></label>
     <input type="email" placeholder="Enter email" name="email" id="email" required>
     <br>
+
+    <br>
+    <label for="ph"><b>Phone</b></label>
+    <input type="number" placeholder="Enter number" name="ph" id="ph" required>
+    <br>
+
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
