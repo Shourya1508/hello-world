@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Project Practice</h1>
+    <h1>Devops Beginner Course</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -14,7 +14,9 @@
     <label for="ph"><b>Phone</b></label>
     <input type="number" placeholder="Enter number" name="ph" id="ph" required>
     <br>
-
+    <label for="ph"><b>countrycode</b></label>
+    <input type="number" placeholder="Enter number" name="ph" id="ph" required>
+    <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
