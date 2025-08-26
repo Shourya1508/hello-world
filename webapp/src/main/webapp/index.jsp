@@ -7,13 +7,13 @@
     <label for="Name"><b>Enter Full Name in lowercase</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
-    <label for="psw"><b>country Name</b></label>
+    <label for="psw"><b>COUNTRY N</b></label>
     <input type="text" placeholder="Enter country" name="psw" id="psw" required>
     <br>
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>PASSWORD</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-    <label for="ph"><b>countrycode</b></label>
+    <label for="ph"><b>COUNTRY CODE</b></label>
     <input type="number" placeholder="Enter number" name="ph" id="ph" required>
     <br>
     <label for="psw-repeat"><b>Repeat Password</b></label>
